@@ -1,0 +1,5 @@
+name=droid_hud
+desc=Made by Harvard
+creator=Harvard
+url_update=
+version=alpha 0.1
