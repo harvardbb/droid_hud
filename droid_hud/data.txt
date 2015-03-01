@@ -1,5 +1,6 @@
 name=droid_hud
 desc=Made by Harvard
 creator=Harvard
-url_update=
+steamid=76561198143948486
+url_update=https://github.com/harvardbb/droid_hud
 version=alpha 0.1

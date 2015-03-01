@@ -19,34 +19,39 @@ Scheme
 	Colors
 	{
 		// Health Colors
-		"healthnormal"		"220 220 220 255"
+		"healthnormal"		"255 255 255 255"
 		"healthnormal2"		"255 255 255 255"
-		"healthhurt"		"230 65 65 255"
-		"healthbuff"		"45 125 235 255"
+		"healthhurt"		"225 75 75 255"
+		"healthbuff"		"109 175 219 255"
+		"healthhurt2"		"255 0 0 255"
+		"healthbuff2"		"0 255 255 255"
 		
 		// Ammo Colors
-		"ammonormal"		"220 220 220 255"
+		"ammonormal"		"255 255 255 255"
 		"ammonormal2"		"255 255 255 255"
-		"ammoinreserve"		"45 125 235 255"
-		"ammolow"			"230 65 65 255"
+		"ammoinreserve"		"255 255 255 255"
+		"ammolow"			"225 75 75 255"
+		"ammolow2"			"255 0 0 255"
 		
 		// Various
 		"damage_numbers"	"255 255 0 255"
-		"healing_numbers"	"45 125 235 255"
+		"healing_numbers"	"109 175 219 255"
 		"ubermeterfg"		"255 255 255 255"
 		"meterbg"			"45 45 45 255"
 		"meterfg"			"255 255 255 255"
+		"ubermeterfull"		"45 235 156 255"
 		
 		// Hud Colors
-		"droid_red"			"230 65 65 255"
-		"droid_blue"		"45 125 235 255"
+		"droid_red"			"225 75 75 255"
+		"droid_blue"		"109 175 219 255"
 		"droid_darkgrey"	"45 45 45 255"
-		"shadow1"			"50 50 50 200"
-		"shadow2"			"50 50 50 255"
+		"shadow1"			"45 45 45 200"
+		"shadow2"			"0 0 0 255"
 		"droid_yellow"		"255 255 0 255"
 		"droid_green"		"45 235 156 255"
 		"droid_black"		"0 0 0 255"
 		"droid_white"		"255 255 255 255"
+		"droid_offwhite"	"220 220 220 255"
 		
 		// base colors
 		"Orange"			"178 82 22 255"
@@ -2431,7 +2436,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"8"
 				"weight"	"500"
 				"antialias" "1"
@@ -2441,7 +2446,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"10"
 				"weight"	"500"
 				"antialias" "1"
@@ -2451,7 +2456,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"12"
 				"weight"	"500"
 				"antialias" "1"
@@ -2462,7 +2467,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias" "1"
@@ -2473,7 +2478,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias" "1"
@@ -2485,7 +2490,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"20"
 				"weight"	"500"
 				"antialias" "1"
@@ -2496,7 +2501,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"22"
 				"weight"	"500"
 				"antialias" "1"
@@ -2507,7 +2512,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"24"
 				"weight"	"500"
 				"antialias" "1"
@@ -2518,7 +2523,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"28"
 				"weight"	"500"
 				"antialias" "1"
@@ -2528,7 +2533,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"32"
 				"weight"	"500"
 				"antialias" "1"
@@ -2539,7 +2544,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"36"
 				"weight"	"500"
 				"antialias" "1"
@@ -2550,7 +2555,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"38"
 				"weight"	"500"
 				"antialias" "1"
@@ -2561,7 +2566,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"40"
 				"weight"	"500"
 				"antialias" "1"
@@ -2572,7 +2577,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"44"
 				"weight"	"500"
 				"antialias" "1"
@@ -2583,7 +2588,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"48"
 				"weight"	"500"
 				"antialias" "1"
@@ -2593,7 +2598,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans"
+				"name"		"Roboto Condensed Regular"
 				"tall"		"56"
 				"weight"	"500"
 				"antialias" "1"
@@ -2604,7 +2609,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"8"
 				"weight"	"500"
 				"antialias" "1"
@@ -2614,7 +2619,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"10"
 				"weight"	"500"
 				"antialias" "1"
@@ -2624,7 +2629,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"12"
 				"weight"	"500"
 				"antialias" "1"
@@ -2635,7 +2640,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"12"
 				"weight"	"500"
 				"antialias" "1"
@@ -2647,7 +2652,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"14"
 				"weight"	"500"
 				"antialias" "1"
@@ -2658,7 +2663,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"14"
 				"weight"	"500"
 				"antialias" "1"
@@ -2670,7 +2675,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias" "1"
@@ -2681,7 +2686,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias" "1"
@@ -2693,7 +2698,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"20"
 				"weight"	"500"
 				"antialias" "1"
@@ -2704,7 +2709,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"22"
 				"weight"	"500"
 				"antialias" "1"
@@ -2715,7 +2720,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"24"
 				"weight"	"500"
 				"antialias" "1"
@@ -2726,7 +2731,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"28"
 				"weight"	"500"
 				"antialias" "1"
@@ -2737,7 +2742,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"28"
 				"weight"	"500"
 				"antialias" "1"
@@ -2749,7 +2754,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"32"
 				"weight"	"500"
 				"antialias" "1"
@@ -2760,7 +2765,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"32"
 				"weight"	"500"
 				"antialias" "1"
@@ -2772,7 +2777,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"36"
 				"weight"	"500"
 				"antialias" "1"
@@ -2783,7 +2788,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"38"
 				"weight"	"500"
 				"antialias" "1"
@@ -2794,7 +2799,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"40"
 				"weight"	"500"
 				"antialias" "1"
@@ -2805,7 +2810,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"44"
 				"weight"	"500"
 				"antialias" "1"
@@ -2816,7 +2821,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"48"
 				"weight"	"500"
 				"antialias" "1"
@@ -2827,7 +2832,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"48"
 				"weight"	"500"
 				"antialias" "1"
@@ -2841,7 +2846,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid-Sans-Bold_edited"
+				"name"		"Roboto Condensed Bold_edited"
 				"tall"		"32"
 				"weight"	"500"
 				"antialias"	"1"
@@ -2854,7 +2859,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Bold"
+				"name"		"Roboto Condensed Bold"
 				"tall"		"56"
 				"weight"	"500"
 				"antialias" "1"
@@ -2994,6 +2999,76 @@ Scheme
 				"name"		"Paula"
 				"tall"		"56"
 				"weight"	"300"
+				"antialias"	"1"
+			}
+		}
+		"ClassIcon12"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"12"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"ClassIcon16"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"16"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"ClassIcon20"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"20"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"ClassIcon24"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"24"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"ClassIcon28"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"28"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"ClassIcon32"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"32"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"ClassIcon36"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"36"
+				"additive"		"0"
 				"antialias"	"1"
 			}
 		}
@@ -3341,6 +3416,36 @@ Scheme
 			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"5"	
 		}
+		RedTestBorder
+        {
+			"bordertype"                    "scalable_image"
+			"backgroundtype"                "2"
+			"image"                                 "replay/thumbnails/bg_red"
+			"src_corner_height"             "1"                             // pixels inside the image
+			"src_corner_width"              "24"
+			"draw_corner_width"             "0"                             // screen size of the corners ( and sides ), proportional
+			"draw_corner_height"    "0"    
+        }
+		WhiteTestBorder
+        {
+			"bordertype"                    "scalable_image"
+			"backgroundtype"                "2"
+			"image"                                 "replay/thumbnails/bg_white"
+			"src_corner_height"             "1"                             // pixels inside the image
+			"src_corner_width"              "24"
+			"draw_corner_width"             "0"                             // screen size of the corners ( and sides ), proportional
+			"draw_corner_height"    "0"    
+        }
+		BlackTestBorder
+        {
+			"bordertype"                    "scalable_image"
+			"backgroundtype"                "2"
+			"image"                                 "replay/thumbnails/bg_black"
+			"src_corner_height"             "1"                             // pixels inside the image
+			"src_corner_width"              "24"
+			"draw_corner_width"             "0"                             // screen size of the corners ( and sides ), proportional
+			"draw_corner_height"    "0"    
+        }
 		TFFatLineBorderRedBGOpaque
 		{
 			"bordertype"			"scalable_image"
@@ -4923,10 +5028,29 @@ Scheme
             "font" "resource/fonts/Paula.ttf"
             "name" "Paula"
         }		
-	}
 		"11"
 		{
 			"font" "resource/fonts/Droid-Sans-Bold_edited.ttf"
 			"name" "DroidSans-Bold_edited"
 		}
+		"12" 
+		{
+			"font" "resource/fonts/HudasIscariote.otf"
+			"name" "Hudas Iscariote"
+		}
+        "13"
+        {
+            "font" "resource/fonts/RobotoCondensed-Regular.ttf"
+            "name" "Roboto Condensed Regular"
+        }
+        "14"
+        {
+            "font" "resource/fonts/RobotoCondensed-Bold.ttf"
+            "name" "Roboto Condensed Bold"
+        }
+        "15"
+        {
+            "font" "resource/fonts/RobotoCondensed-Bold_edited.ttf"
+            "name" "Roboto Condensed Bold_edited"
+        }
 }
