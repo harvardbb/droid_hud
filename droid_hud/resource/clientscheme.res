@@ -29,17 +29,19 @@ Scheme
 		// Ammo Colors
 		"ammonormal"		"255 255 255 255"
 		"ammonormal2"		"255 255 255 255"
-		"ammoinreserve"		"255 255 255 255"
+		"ammoinreserve"		"115 115 115 255"
 		"ammolow"			"225 75 75 255"
 		"ammolow2"			"255 0 0 255"
 		
 		// Various
-		"damage_numbers"	"255 255 0 255"
+		"damage_numbers"	"204 153 255 255"
 		"healing_numbers"	"109 175 219 255"
 		"ubermeterfg"		"255 255 255 255"
 		"meterbg"			"45 45 45 255"
 		"meterfg"			"255 255 255 255"
-		"ubermeterfull"		"45 235 156 255"
+		"ubermeterfull"		"153 255 153 255"
+		"ubermeterfull2"	"153 153 255 255"
+		"uberlabel"			"255 204 153 255"
 		
 		// Hud Colors
 		"droid_red"			"225 75 75 255"
@@ -47,8 +49,9 @@ Scheme
 		"droid_darkgrey"	"45 45 45 255"
 		"shadow1"			"45 45 45 200"
 		"shadow2"			"0 0 0 255"
-		"droid_yellow"		"255 255 0 255"
+		"droid_yellow"		"255 255 153 255"
 		"droid_green"		"45 235 156 255"
+		"droid_mattegreen" 	"153 255 153 255"
 		"droid_black"		"0 0 0 255"
 		"droid_white"		"255 255 255 255"
 		"droid_offwhite"	"220 220 220 255"
